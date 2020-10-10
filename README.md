@@ -1,33 +1,12 @@
-<p align="center">
-    <img src="info/logo.png">
-</p>
-
-[![Build Status](https://api.travis-ci.org/koute/stdweb.svg)](https://travis-ci.org/koute/stdweb)
-[![Join the chat at https://gitter.im/stdweb-rs/stdweb](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/stdweb-rs/stdweb?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 # A standard library for the client-side Web
 
-[![Documentation](https://docs.rs/stdweb/badge.svg)](https://docs.rs/stdweb/*/stdweb/)
+The goal of this crate is to provide Rust bindings to the Web APIs.
+In diffrence of stdweb, cbrweb ultimate goal is to fully replace JavaScript. Our dream is a full working framework like NodeJS+React+Electron combinded.
 
-The goal of this crate is to provide Rust bindings to the Web APIs and to allow
-a high degree of interoperability between Rust and JavaScript.
+## fork notice
+This is a forked from koute/stdweb 
+Thanks to koute and the other collaborators for their amazing work.
 
-## Donate
-
-[![Become a patron](https://koute.github.io/img/become_a_patron_button.png)](https://www.patreon.com/koute)
-
-## Patrons
-
-This software was brought to you thanks to these wonderful people:
-  * Embark Studios
-  * Joe Narvaez
-  * Eduard Knyshov
-  * Anselm Eickhoff
-  * Johan Andersson
-  * Stephen Sugden
-  * is8ac
-
-Thank you!
 
 ## Examples
 
